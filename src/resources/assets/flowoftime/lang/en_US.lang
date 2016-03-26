@@ -1,0 +1,9 @@
+< en_US.lang - American English localisation file for Flow of Time >
+
+item.tutorial_item.name=Tutorial Item
+item.compressed_eyeball.name=Compressed Eyeball
+item.glass_eye.name=Glass Eye
+
+tile.tutorial_block.name=Tutorial Block
+tile.tutorial_ore.name=Tutorial Ore
+tile.eye_stalk.name=Eye Stalk

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flowoftime",
+  "name": "Flow of Time",
+  "description": "A time manipulation mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Reticality"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

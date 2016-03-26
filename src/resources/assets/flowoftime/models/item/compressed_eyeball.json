@@ -1,0 +1,6 @@
+{
+    "parent": "flowoftime:item/standard_item",
+    "textures": {
+        "layer0": "flowoftime:items/compressed_eyeball"
+    }
+}
